@@ -100,7 +100,7 @@ Step     | Description
 
 ![](./Lab/Lab1/Media/Lab1-Image51.png)
 
-### [Lab 2: Transform Big Data using Azure Data Factory Mapping Data Flows](./Lab/Lab2/README.md)
+### [Lab 2: Transform Big Data using Azure Synapse Pipelines Mapping Data Flows](./Lab/Lab2/README.md)
 In this lab you will use Pipelines from Azure Synapse to download large data files into your data lake and use an Azure Synapse Analytics stored procedure to generate a summary dataset and store it in the final table. The dataset you will use contains detailed New York City Yellow Taxi rides for the first half of 2019. You will generate a daily aggregated summary of all rides using Mapping Data Flows and save the resulting dataset into your Azure Synapse Analytics data warehouse. You will then use Power BI to visualise summarised data. 
 
 The estimated time to complete this lab is: **60 minutes**.
